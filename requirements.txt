@@ -1,0 +1,7 @@
+Specify requirement
+virtual enivronment bash script batch script
+
+Specify Readme
+Specify Users
+
+Look at https://docs.python.org/3/distutils/setupscript.html
