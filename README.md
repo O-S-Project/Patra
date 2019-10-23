@@ -1,5 +1,5 @@
 # Patra
-Text Editor Python GUI available Tkinter support
+Text Editor Python GUI available Tkinter/support pyqt support
 
 1 . edit / manipulate documents
 2 . capable of
