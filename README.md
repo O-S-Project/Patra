@@ -11,3 +11,6 @@ search for words, search and replace
 4 . inbuilt feature support in Linux (such as ispell for spell check, etc.
 
 5 . visual interface for the features supported.
+
+6 autcomplete 
+7 font size

@@ -52,12 +52,9 @@ filemenu = Menu(menubar)
 filemenu.add_command(label = "New",command = newFile)
 filemenu.add_command(label = "Open",command = openFilE)
 filemenu.add_command(label = "Save",command = saveFiel)
-filemenu.add_command(label = "Open",command = openFilE)
+filemenu.add_command(label = "Save+as",command = openFilE)
 filemenu.add_separator()
 filemenu.add_command(label = "quit",command = root.quit)
 menubar.add_cascade(label = "File" ,menu = filemenu)
 root.config(menu = menubar )
 root.mainloop()
-
-
-
